@@ -59,7 +59,7 @@ export default function App() {
                   // Remember to replace "1" below with repository ID: `}
                   testID={`repository-likes-${repository.id}`}
                 >
-                  {repository.likes} curtidas!
+                  {repository.likes} curtidas!!
                 </Text>
               </View>
               <TouchableOpacity
